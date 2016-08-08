@@ -16,3 +16,12 @@ D:\Full Backup\PROG37721 Web Services Using .NET & C# Programming\raFile1\raFile
 D:\Full Backup\PROG37721 Web Services Using .NET & C# Programming\raFile1\raFile1\obj\Debug\raFile1.csproj.GenerateResource.Cache
 D:\Full Backup\PROG37721 Web Services Using .NET & C# Programming\raFile1\raFile1\bin\Debug\raFile1.exe
 D:\Full Backup\PROG37721 Web Services Using .NET & C# Programming\raFile1\raFile1\bin\Debug\raFile1.pdb
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\bin\Debug\raFile1.exe.config
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\obj\Debug\raFile1.exe
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\obj\Debug\raFile1.pdb
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\bin\Debug\raFile1.exe
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\bin\Debug\raFile1.pdb
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\obj\Debug\raFile1.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\obj\Debug\raFile1.Form1.resources
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\obj\Debug\raFile1.Properties.Resources.resources
+C:\Users\sebas\Documents\GitHub\C-ReadWriteFile\raFile1\raFile1\obj\Debug\raFile1.csproj.GenerateResource.Cache

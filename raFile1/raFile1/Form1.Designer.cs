@@ -116,7 +116,7 @@
             this.cmdInsert.Name = "cmdInsert";
             this.cmdInsert.Size = new System.Drawing.Size(176, 41);
             this.cmdInsert.TabIndex = 8;
-            this.cmdInsert.Text = "Insert Record";
+            this.cmdInsert.Text = "Insert Account";
             this.cmdInsert.UseVisualStyleBackColor = true;
             this.cmdInsert.Click += new System.EventHandler(this.cmdInsert_Click);
             // 
@@ -126,7 +126,7 @@
             this.cmdUpdate.Name = "cmdUpdate";
             this.cmdUpdate.Size = new System.Drawing.Size(176, 37);
             this.cmdUpdate.TabIndex = 9;
-            this.cmdUpdate.Text = "Update Record";
+            this.cmdUpdate.Text = "Update Account";
             this.cmdUpdate.UseVisualStyleBackColor = true;
             this.cmdUpdate.Click += new System.EventHandler(this.cmdUpdate_Click);
             // 
@@ -136,7 +136,7 @@
             this.cmdDelete.Name = "cmdDelete";
             this.cmdDelete.Size = new System.Drawing.Size(176, 43);
             this.cmdDelete.TabIndex = 10;
-            this.cmdDelete.Text = "Delete Record";
+            this.cmdDelete.Text = "Delete Account";
             this.cmdDelete.UseVisualStyleBackColor = true;
             this.cmdDelete.Click += new System.EventHandler(this.cmdDelete_Click);
             // 
@@ -168,7 +168,7 @@
             this.Controls.Add(this.txtAcctNum);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "raFile1";
+            this.Text = "Account Manager";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
